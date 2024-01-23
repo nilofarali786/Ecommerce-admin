@@ -1,0 +1,38 @@
+
+
+
+ol{ background-color: blue;
+  width:20%;
+  padding:5px;
+  margin-top: -20px;
+
+
+}
+
+li { color: rgb(0, 217, 255);
+  
+ padding: 5px;
+
+
+
+
+}
+lo:hover{font-size: 35px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+  
+  
+}
+input[type="email"]{ margin-left: 560px;
+     border-radius: 30px;
+
+
+
+}
+input[type="password"]{ margin-left: 580px;
+  border-radius: 30px;
+
+
+
+}
